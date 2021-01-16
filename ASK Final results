@@ -1,0 +1,180 @@
+================================ QALD_1 Scores =========================
+Micro Scores
+	R_Mi : 8.774495466510676E-4	P_Mi : 0.10714285714285714	F_Mi : 0.001740644038294169
+Macro Scores
+	F_Ma : 0.06895238095238096
+Global Scores (threshold = 1)
+	R_G : 0.06	P_MG : 0.16666666666666666	F_MG : 0.08823529411764705
+	Questions Partially Correct Answered With Theta Threshold = 1: 3
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.08	P_MG(0.0) : 0.2222222222222222	F_MG(0.0) : 0.11764705882352941
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 4
+=========================================================================================
+
+
+================================ QALD_2 ================================
+All Questions: 195
+System Answered: 42
+Questions With Correct Answers: 118
+================================ QALD_2 Scores =========================
+Micro Scores
+	R_Mi : 5.811138014527845E-4	P_Mi : 0.144	F_Mi : 0.0011575562700964631
+Macro Scores
+	F_Ma : 0.09701372074253431
+Global Scores (threshold = 1)
+	R_G : 0.0847457627118644	P_MG : 0.23809523809523808	F_MG : 0.125
+	Questions Partially Correct Answered With Theta Threshold = 1: 10
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.09322033898305085	P_MG(0.0) : 0.2619047619047619	F_MG(0.0) : 0.13749999999999998
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 11
+=========================================================================================
+
+
+
+
+================================ QALD_3 ================================
+All Questions: 247
+System Answered: 40
+Questions With Correct Answers: 104
+================================ QALD_3 Scores =========================
+Micro Scores
+	R_Mi : 0.0028544243577545195	P_Mi : 0.12096774193548387	F_Mi : 0.005577244841048522
+Macro Scores
+	F_Ma : 0.12606837606837606
+Global Scores (threshold = 1)
+	R_G : 0.125	P_MG : 0.325	F_MG : 0.18055555555555555
+	Questions Partially Correct Answered With Theta Threshold = 1: 13
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.1346153846153846	P_MG(0.0) : 0.35	F_MG(0.0) : 0.19444444444444445
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 14
+=========================================================================================
+
+
+
+================================ QALD_4 ================================
+All Questions: 321
+System Answered: 61
+Questions With Correct Answers: 177
+================================ QALD_4 Scores =========================
+Micro Scores
+	R_Mi : 0.0034136974610625135	P_Mi : 0.04953560371517028	F_Mi : 0.006387225548902196
+Macro Scores
+	F_Ma : 0.07966101694915254
+Global Scores (threshold = 1)
+	R_G : 0.07909604519774012	P_MG : 0.22950819672131148	F_MG : 0.11764705882352941
+	Questions Partially Correct Answered With Theta Threshold = 1: 14
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.0847457627118644	P_MG(0.0) : 0.2459016393442623	F_MG(0.0) : 0.12605042016806722
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 15
+=========================================================================================
+
+
+0
+
+================================ QALD_5 ================================
+All Questions: 334
+System Answered: 89
+Questions With Correct Answers: 255
+================================ QALD_5 Scores =========================
+Micro Scores
+	R_Mi : 0.005006403539410874	P_Mi : 0.10669975186104218	F_Mi : 0.00956405693950178
+Macro Scores
+	F_Ma : 0.09391562685680331
+Global Scores (threshold = 1)
+	R_G : 0.09019607843137255	P_MG : 0.25842696629213485	F_MG : 0.13372093023255813
+	Questions Partially Correct Answered With Theta Threshold = 1: 23
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.10196078431372549	P_MG(0.0) : 0.29213483146067415	F_MG(0.0) : 0.1511627906976744
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 26
+=========================================================================================
+
+
+
+================================ QALD_6 ================================
+All Questions: 431
+System Answered: 113
+Questions With Correct Answers: 335
+================================ QALD_6 Scores =========================
+Micro Scores
+	R_Mi : 0.0038363171355498722	P_Mi : 0.08854166666666667	F_Mi : 0.007354001441961068
+Macro Scores
+	F_Ma : 0.0933785617367707
+Global Scores (threshold = 1)
+	R_G : 0.08656716417910448	P_MG : 0.25663716814159293	F_MG : 0.12946428571428573
+	Questions Partially Correct Answered With Theta Threshold = 1: 29
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.10149253731343283	P_MG(0.0) : 0.3008849557522124	F_MG(0.0) : 0.15178571428571427
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 34
+=========================================================================================
+
+
+
+================================ QALD_7 ================================
+All Questions: 530
+System Answered: 102
+Questions With Correct Answers: 253
+================================ QALD_7 Scores =========================
+Micro Scores
+	R_Mi : 0.014168765743073047	P_Mi : 0.1393188854489164	F_Mi : 0.02572163475278651
+Macro Scores
+	F_Ma : 0.1515151515151515
+Global Scores (threshold = 1)
+	R_G : 0.14624505928853754	P_MG : 0.3627450980392157	F_MG : 0.2084507042253521
+	Questions Partially Correct Answered With Theta Threshold = 1: 37
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.15019762845849802	P_MG(0.0) : 0.37254901960784315	F_MG(0.0) : 0.21408450704225349
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 38
+=========================================================================================
+
+
+================================ QALD_8 ================================
+All Questions: 315
+System Answered: 72
+Questions With Correct Answers: 184
+================================ QALD_8 Scores =========================
+Micro Scores
+	R_Mi : 0.014615747289014616	P_Mi : 0.10333333333333333	F_Mi : 0.02560925237505163
+Macro Scores
+	F_Ma : 0.12728832951945082
+Global Scores (threshold = 1)
+	R_G : 0.125	P_MG : 0.3194444444444444	F_MG : 0.1796875
+	Questions Partially Correct Answered With Theta Threshold = 1: 23
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.13043478260869565	P_MG(0.0) : 0.3333333333333333	F_MG(0.0) : 0.18750000000000003
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 24
+=========================================================================================
+
+
+
+================================ QALD_9 ================================
+All Questions: 408
+System Answered: 121
+Questions With Correct Answers: 351
+================================ QALD_9 Scores =========================
+Micro Scores
+	R_Mi : 0.0026565235766467426	P_Mi : 0.0668693009118541	F_Mi : 0.0051100400673596185
+Macro Scores
+	F_Ma : 0.0838556505223172
+Global Scores (threshold = 1)
+	R_G : 0.07977207977207977	P_MG : 0.23140495867768596	F_MG : 0.11864406779661017
+	Questions Partially Correct Answered With Theta Threshold = 1: 28
+Global Scores (threshold = 0.0)
+	R_G(0.0) : 0.08831908831908832	P_MG(0.0) : 0.256198347107438	F_MG(0.0) : 0.13135593220338984
+	Questions Partially Correct Answered With Theta Threshold = 0.0): 31
+=========================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
