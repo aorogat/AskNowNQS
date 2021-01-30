@@ -11,6 +11,7 @@ import utils.ontologyRelation;
 public class listQuery {
 
 	/*
+	 * Based on CBench, this part of Query Buolder ha a problem.
 	 * List query handels templates of the form SELECT DISTINCT var0 WHERE{}
 	 * */
 	
